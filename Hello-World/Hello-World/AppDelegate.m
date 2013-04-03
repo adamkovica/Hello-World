@@ -14,7 +14,7 @@
 {
     // Override point for customization after application launch.
     
-    NSLog(@"Just to test git repository number no.2");
+    NSLog(@"Just to test git repository number no.3");
     
     
     return YES;
